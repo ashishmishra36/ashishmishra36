@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Mishra
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ashishmishra36)
 
 🎯 **Seasoned QA Leader | Automation Architect | Domain Expert in Payments**
 
