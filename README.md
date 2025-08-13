@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ashish Mishra
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 🎯 **Seasoned QA Leader | Automation Architect | Domain Expert in Payments**
 
 Welcome to my GitHub! With over **13 years of QA experience**, I specialize in building **resilient automation frameworks**, modernizing legacy test systems, and leading cross-functional teams across Agile enterprises.
