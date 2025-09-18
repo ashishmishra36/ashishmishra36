@@ -2,6 +2,9 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ashishmishra36)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mishra36" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mishra36?trk=profile-badge">Ashish Mishra</a></div>
+              
+
 🎯 **Seasoned QA Leader | Automation Architect | Domain Expert in Payments**
 
 Welcome to my GitHub! With over **13 years of QA experience**, I specialize in building **resilient automation frameworks**, modernizing legacy test systems, and leading cross-functional teams across Agile enterprises.
